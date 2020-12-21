@@ -1,8 +1,9 @@
 - REF: https://docs.unrealengine.com/en-US/InteractiveExperiences/Framework/QuickReference/index.html
 - REF: https://docs.unrealengine.com/en-US/InteractiveExperiences/Framework/UIAndHUD/index.html
 - REF: https://docs.unrealengine.com/en-US/TestingAndOptimization/PerformanceAndProfiling/Scalability/ScalabilityReference/index.html
-- REF: https://docs.pagure.org/docs-fedora/setting-up-bumblebee.html
 
+
+### Verificar Vulkan
 ~~~
 $ X -configure
 ~~~
