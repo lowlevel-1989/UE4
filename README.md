@@ -50,4 +50,5 @@ $ sudo ifconfig lo multicast
 - Content Browser - Class Data Source
 - Plugin Browser
 - UDP Messaging
+- GeometryMode
 ~~~
