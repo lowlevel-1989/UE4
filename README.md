@@ -1,6 +1,9 @@
 - REF: https://docs.unrealengine.com/en-US/InteractiveExperiences/Framework/QuickReference/index.html
 - REF: https://docs.unrealengine.com/en-US/InteractiveExperiences/Framework/UIAndHUD/index.html
 - REF: https://docs.unrealengine.com/en-US/TestingAndOptimization/PerformanceAndProfiling/Scalability/ScalabilityReference/index.html
+- REF: https://docs.unrealengine.com/en-US/BuildingWorlds/LightingAndShadows/MeshDistanceFields/HowTo/DFHT_4/index.html
+- REF: https://docs.unrealengine.com/en-US/BuildingWorlds/LightingAndShadows/MeshDistanceFields/HowTo/DFHT_1/index.html
+- REF: https://docs.unrealengine.com/en-US/BuildingWorlds/LightingAndShadows/CapsuleShadows/Overview/index.html
 
 
 ### Verificar Vulkan
