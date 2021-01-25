@@ -4,6 +4,7 @@
 - REF: https://docs.unrealengine.com/en-US/BuildingWorlds/LightingAndShadows/MeshDistanceFields/HowTo/DFHT_4/index.html
 - REF: https://docs.unrealengine.com/en-US/BuildingWorlds/LightingAndShadows/MeshDistanceFields/HowTo/DFHT_1/index.html
 - REF: https://docs.unrealengine.com/en-US/BuildingWorlds/LightingAndShadows/CapsuleShadows/Overview/index.html
+- REF: https://docs.unrealengine.com/en-US/ProgrammingAndScripting/ProgrammingWithCPP/IntroductionToCPP/index.html
 
 
 ### Verificar Vulkan
