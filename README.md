@@ -6,12 +6,13 @@
 - REF: https://docs.unrealengine.com/en-US/BuildingWorlds/LightingAndShadows/CapsuleShadows/Overview/index.html
 - REF: https://docs.unrealengine.com/en-US/ProgrammingAndScripting/ProgrammingWithCPP/IntroductionToCPP/index.html
 
-
-### Verificar Vulkan
+### NVIDIA IMPORTANT CONFIGURE X FOR VULKAN
 ~~~
+$ vulkan vulkan-tools
 $ X -configure
 ~~~
 
+### Verificar Vulkan
 ~~~
 $ grep LoadModule /var/log/Xorg.0.log
 [    26.038] (II) LoadModule: "glx"
